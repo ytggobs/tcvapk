@@ -9,6 +9,10 @@ If you have these following files, you can put it in the root directory:
 You need to have TheChoicerVoicer*.exe (any versions of The Choicer Voicer will work)
 
 **You will need to sign the apk yourself!**
+```console
+git clone https://github.com/ytggobs/tcvapk.git
+cd tcvapk
+```
 #### With PowerShell in the root directory type:
 ```console
 .\script.ps1
