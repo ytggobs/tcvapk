@@ -1,6 +1,10 @@
 
 # [The Choicer Voicer](https://yeahmaybe.itch.io/the-choicer-voicer) Android recompiler
 It downloads tools needed, recovers the Godot project, patches it then compiles it to Android
+## Optional
+If you have these following files, you can put it in the root directory:
+`Godot_v4.4.1-stable_win64.exe` (rename it to Godot.exe),
+`gdre_tools.exe`, `gdre_tools.pck` and `GodotMonoDecompNativeAOT.dll`
 ## Usage
 You need to have TheChoicerVoicer*.exe (any versions of The Choicer Voicer will work)
 
