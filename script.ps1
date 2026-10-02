@@ -66,3 +66,5 @@ if ( !$ExportTemplate )
 }
 Write-Host "Compiling Android project..."
 .\Godot --path $ProjectPath --headless --export-release "Android" TheChoicerVoicer.apk
+Copy-Item $ProjectPath/TheChoicerVoicer.apk -Destination .
+Remove-Item $ProjectPath/TheChoicerVoicer.apk

@@ -2,6 +2,7 @@
 # The Choicer Voicer Android recompiler
 It downloads tools needed, recovers the Godot project and recompiles it to Android
 ### You need to have TheChoicerVoicer*.exe (any versions of The Choicer Voicer) and the included export_presets.cfg
+### You will need to sign the apk yourself
 
 ## TODO
 - Add a way to sign the apk automaticaly
